@@ -5,7 +5,7 @@ Ce site présente mon parcours, mes projets et mes compétences en développemen
 Il est hébergé gratuitement grâce à **GitHub Pages**.   
 
 ## 🔗 Accéder au site
-👉 [Mon portfolio en ligne]([https://TON_UTILISATEUR.github.io/portfolio/](https://joyces2025.github.io/Portfolio-Joyce-Sithom-DLCIC/))
+👉 [Mon portfolio en ligne](https://joyces2025.github.io/Portfolio-Joyce-Sithom-DLCIC/)
 
 ## 📂 Contenu
 - **index.html** : page principale du site  
